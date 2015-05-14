@@ -6,3 +6,4 @@ print "test.py"
 
 
 im pull2
+im push1
